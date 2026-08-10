@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 *.zip
 .pytest_cache/
+.env
+start.py
